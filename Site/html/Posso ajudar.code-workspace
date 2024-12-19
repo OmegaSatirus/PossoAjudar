@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../PROZ"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Posso ajudar"
+	}
+}
